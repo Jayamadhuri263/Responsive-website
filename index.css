@@ -1,0 +1,318 @@
+#nav-name {
+  color: black;
+}
+
+.logo-nav {
+  height: 50px;
+  width: 140px;
+}
+
+.button-back {
+  color: white;
+  background-color: orange;
+  height: 40px;
+  width: 100px;
+  border-width: 0;
+  border-radius: 10px;
+}
+
+.btn-buy {
+  background-color: white;
+  border-radius: 5px;
+  border-style: solid;
+  font-size: 12px;
+}
+
+.mini-heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.heading-title {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.icon {
+  height: 40px;
+  width: 20px;
+}
+
+.see-section {
+  color: #ff9f00;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.card {
+  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+  border-radius: 10px;
+  background-size: cover;
+  height: 320px;
+}
+
+.card-laptop {
+  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+  border-radius: 10px;
+  background-size: cover;
+  height: 320px;
+}
+
+.card-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+
+.button {
+  background-color: white;
+  border-radius: 30px;
+  color: #ff9f00;
+  height: 50px;
+  width: 130px;
+}
+
+.card-heading {
+  font-family: 'Roboto';
+  font-size: 33px;
+  font-weight: 700;
+  color: white;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 700;
+  color: #183b56;
+}
+
+.card-image-offers {
+  height: 100px;
+  width: 100%;
+}
+
+.sbi-offers {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 10px;
+  color: white;
+}
+
+.discount-offers {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  color: white;
+}
+
+.offer-offers {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  color: yellow;
+}
+
+.mini-para-offers {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+}
+
+.para-offers {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: white;
+}
+
+.best-heading-offers {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ad2167;
+  font-weight: 600;
+}
+
+.image-offers {
+  height: 250px;
+  width: 320px;
+}
+
+.image1-offers {
+  height: 80px;
+  width: 100px;
+}
+
+.image2-offers {
+  height: 300px;
+  width: 100%;
+}
+
+.bg-offers {
+  background-image: linear-gradient(to left, #dd5d97, #f49541);
+}
+
+.icon-blogs {
+  height: 40px;
+  width: 20px;
+}
+
+.read-blogs {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ff9f00;
+  font-weight: 700;
+}
+
+.lil-para-blogs {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #959ead;
+}
+
+.para-blogs {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #959ead;
+}
+
+.image-blogs {
+  height: 30vh;
+}
+
+.card-blogs {
+  border-radius: 10px;
+  background-color: white;
+}
+
+.main-heaing-blogs {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 700;
+  color: #183b56;
+}
+
+.card-heaing-blogs {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  color: #183b56;
+}
+
+.explore-section {
+  background-color: #f5f7fa;
+}
+
+.explore-section-heading {
+  color: #183b56;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.explore-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.explore-card-image-container {
+  padding: 10px;
+}
+
+.explore-card-image {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.explore-card-title {
+  color: #183b56;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.explore-card-product-title {
+  color: #1f2933;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.explore-card-link {
+  color: #ff9f00;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.join-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: bold;
+  color: #183b56;
+}
+
+.button-contact {
+  height: 50px;
+  width: 140px;
+  border-style: solid;
+  border-color: #ff9f00;
+  color: #ff9f00;
+  background-color: transparent;
+}
+
+.footer-address {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #5a7184;
+}
+
+#padzero {
+  padding-left: 0;
+}
+
+.headline {
+  background-color: #5a7184;
+}
+
+.style {
+  list-style: none;
+  padding-left: 0;
+}
+
+#bold {
+  font-weight: 600;
+}
+
+.footer-icon {
+  background-color: #152c3e;
+  padding-top: 14px;
+  border-radius: 60px;
+  font-size: 20px;
+  height: 50px;
+  width: 50px;
+  color: #5a7184;
+}
+
+.copyright {
+  font-size: 20px;
+  color: #5a7184;
+}
+
+.bg-footer {
+  background-color: #0d2436;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.footer-img {
+  height: 65px;
+  width: 160px;
+}
